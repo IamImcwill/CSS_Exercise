@@ -1,0 +1,25 @@
+.objective
+{
+    color: orange;
+    text-decoration: nonw;
+}
+main
+{
+    margin: 24px, 0;
+    border: 3px dotted orangered;
+    padding: 16px;
+}
+nav ul
+{
+    list-style-type: none;
+}
+body
+{
+    background-color: #222222;
+    color: #EEEEEE;
+}
+#avatar
+{
+    width: 100px;
+    margin: 32px auto;
+}
